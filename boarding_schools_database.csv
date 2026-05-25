@@ -1,0 +1,62 @@
+school_name,country,region,employment_url,school_website,notes
+Eton College,United Kingdom,England,https://etoncollege.com/work-with-us,https://etoncollege.com,Historic boarding school
+Wellington College,United Kingdom,England,https://www.wellingtoncollege.org.uk/about/vacancies,https://www.wellingtoncollege.org.uk,Berkshire
+Harrow School,United Kingdom,England,https://www.harrowschool.org.uk/about/work-for-us,https://www.harrowschool.org.uk,North London
+Charterhouse School,United Kingdom,England,https://www.charterhouse.org.uk/about-us/vacancies,https://www.charterhouse.org.uk,Surrey
+Cranleigh School,United Kingdom,England,https://www.cranleigh.org/about/vacancies,https://www.cranleigh.org,Surrey
+Brighton College,United Kingdom,England,https://www.brightoncollege.net/about/careers,https://www.brightoncollege.net,East Sussex
+Roedean School,United Kingdom,England,https://www.roedean.co.uk/about/careers,https://www.roedean.co.uk,East Sussex
+Sevenoaks School,United Kingdom,England,https://www.sevenoaksschool.org/about/careers,https://www.sevenoaksschool.org,Kent
+Tonbridge School,United Kingdom,England,https://www.tonbridge-school.co.uk/about/work-with-us,https://www.tonbridge-school.co.uk,Kent
+Radley College,United Kingdom,England,https://radley.org.uk/about-radley/vacancies,https://radley.org.uk,Oxfordshire
+Bradfield College,United Kingdom,England,https://www.bradfieldcollege.org.uk/about/vacancies,https://www.bradfieldcollege.org.uk,Berkshire
+Marlborough College,United Kingdom,England,https://www.marlboroughcollege.org/about/vacancies,https://www.marlboroughcollege.org,Wiltshire
+Sherborne School,United Kingdom,England,https://www.sherborneboys.org/about/vacancies,https://www.sherborneboys.org,Dorset
+Canford School,United Kingdom,England,https://www.canford.com/about/careers,https://www.canford.com,Dorset
+Bryanston School,United Kingdom,England,https://www.bryanston.co.uk/about/vacancies,https://www.bryanston.co.uk,Dorset
+Millfield School,United Kingdom,England,https://www.millfieldschool.com/about-us/careers,https://www.millfieldschool.com,Somerset
+Rugby School,United Kingdom,England,https://www.rugbyschool.co.uk/about/vacancies,https://www.rugbyschool.co.uk,Warwickshire
+Shrewsbury School,United Kingdom,England,https://www.shrewsbury.org.uk/about/work-with-us,https://www.shrewsbury.org.uk,Shropshire
+Uppingham School,United Kingdom,England,https://www.uppingham.co.uk/about/vacancies,https://www.uppingham.co.uk,Rutland
+Oakham School,United Kingdom,England,https://www.oakham.org.uk/about/work-with-us,https://www.oakham.org.uk,Rutland
+Oundle School,United Kingdom,England,https://www.oundleschool.org.uk/about/vacancies,https://www.oundleschool.org.uk,Northamptonshire
+Haileybury,United Kingdom,England,https://www.haileybury.com/about/careers,https://www.haileybury.com,Hertfordshire
+Ampleforth College,United Kingdom,England,https://www.ampleforth.org.uk/about/work-with-us,https://www.ampleforth.org.uk,Yorkshire
+Bootham School,United Kingdom,England,https://www.boothamschool.com/about/vacancies,https://www.boothamschool.com,York
+Gresham's School,United Kingdom,England,https://www.greshams.com/about/vacancies,https://www.greshams.com,Norfolk
+Bedales School,United Kingdom,England,https://www.bedales.org.uk/about/vacancies,https://www.bedales.org.uk,Hampshire
+Dean Close School,United Kingdom,England,https://www.deanclose.org.uk/about/vacancies,https://www.deanclose.org.uk,Gloucestershire
+Downe House,United Kingdom,England,https://www.downehouse.net/about/vacancies,https://www.downehouse.net,Berkshire
+Heathfield School,United Kingdom,England,https://heathfieldschool.net/about/careers,https://heathfieldschool.net,Berkshire
+Benenden School,United Kingdom,England,https://www.benenden.kent.sch.uk/about/vacancies,https://www.benenden.kent.sch.uk,Kent
+Cheltenham College,United Kingdom,England,https://www.cheltenhamcollege.org/about/vacancies,https://www.cheltenhamcollege.org,Gloucestershire
+Clifton College,United Kingdom,England,https://www.cliftoncollegebristol.co.uk/about/vacancies,https://www.cliftoncollegebristol.co.uk,Bristol
+Eastbourne College,United Kingdom,England,https://www.eastbourne-college.co.uk/about/vacancies,https://www.eastbourne-college.co.uk,East Sussex
+Epsom College,United Kingdom,England,https://www.epsomcollege.org.uk/about/vacancies,https://www.epsomcollege.org.uk,Surrey
+Fettes College,United Kingdom,Scotland,https://www.fettes.org.uk/about/vacancies,https://www.fettes.org.uk,Edinburgh
+Glenalmond College,United Kingdom,Scotland,https://www.glenalmond.org.uk/about/vacancies,https://www.glenalmond.org.uk,Perthshire
+Gordonstoun School,United Kingdom,Scotland,https://www.gordonstoun.org.uk/about/careers,https://www.gordonstoun.org.uk,Moray
+St Leonards School,United Kingdom,Scotland,https://www.stleonards.org.uk/about/vacancies,https://www.stleonards.org.uk,St Andrews
+Dollar Academy,United Kingdom,Scotland,https://www.dollaracademy.org.uk/about/vacancies,https://www.dollaracademy.org.uk,Dollar
+Loretto School,United Kingdom,Scotland,https://www.lorettoedinburgh.org.uk/about/careers,https://www.lorettoedinburgh.org.uk,Edinburgh
+Merchiston Castle School,United Kingdom,Scotland,https://www.merchiston.co.uk/about/vacancies,https://www.merchiston.co.uk,Edinburgh
+Strathallan School,United Kingdom,Scotland,https://www.strathallan.co.uk/about/vacancies,https://www.strathallan.co.uk,Perthshire
+Queen Victoria School,United Kingdom,Scotland,https://www.qvs.org.uk/about/vacancies,https://www.qvs.org.uk,Dunblane
+Clongowes Wood College,Ireland,Leinster,https://www.clongowes.net/about/employment,https://www.clongowes.net,County Kildare
+St Columba's College,Ireland,Dublin,https://www.stcolumbascc.ie/about/careers,https://www.stcolumbascc.ie,Dublin
+Castleknock College,Ireland,Dublin,https://www.castleknock.ie/about/vacancies,https://www.castleknock.ie,Dublin
+Coláiste Íde,Ireland,Kerry,https://colaisteide.com/about/employment,https://colaisteide.com,Dingle
+Le Rosey,Switzerland,Vaud,https://www.rosey.ch/information/employment/,https://www.rosey.ch,Rolle/Gstaad
+Leysin American School,Switzerland,Vaud,https://www.las.ch/about/employment,https://www.las.ch,Leysin
+Lyceum Alpinum Zuoz,Switzerland,Grisons,https://www.lyceum-alpinum.ch/en/about/careers,https://www.lyceum-alpinum.ch,Zuoz
+College Du Leman,Switzerland,Geneva,https://www.cdl.ch/about/careers,https://www.cdl.ch,Geneva
+Aiglon College,Switzerland,Vaud,https://www.aiglon.org/about/employment,https://www.aiglon.org,Chesières
+Institut Montana Zugerberg,Switzerland,Zug,https://www.montana.ch/about/careers,https://www.montana.ch,Zug
+TASIS,Switzerland,Ticino,https://www.tasis.ch/about/employment,https://www.tasis.ch,Lugano
+Préfleuri International Alpine School,Switzerland,Vaud,https://www.preleuri.ch/about/careers,https://www.preleuri.ch,Villars-sur-Ollon
+Army and Navy Academy,United States,California,https://www.armyandnavyacademy.org/about/careers,https://www.armyandnavyacademy.org,Carlsbad
+Besant Hill School,United States,California,https://www.besanthill.org/about/employment,https://www.besanthill.org,Ojai
+The Athenian School,United States,California,https://www.athenian.org/about/careers,https://www.athenian.org,Danville
+Maine School of Science and Math,United States,Maine,https://mssm.org/about/employment,https://mssm.org,Limestone
+The Webb School,United States,Tennessee,https://www.webb.org/about/careers,https://www.webb.org,Bell Buckle
+Note: URLs are research-based and should be verified before implementation. Many schools list vacancies on third-party boards (Indeed Tes Ashton Recruitment). Check school websites for current employment portals.,,,
